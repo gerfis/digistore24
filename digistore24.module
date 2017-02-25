@@ -1,0 +1,4 @@
+<?php
+
+include('digistore24_ipn.inc');
+

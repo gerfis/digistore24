@@ -1,0 +1,4 @@
+name = digistore24
+description = Drupal Digistore24 Connection.
+core = 7.x
+package = Digistore24
